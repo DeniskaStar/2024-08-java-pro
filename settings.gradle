@@ -1,2 +1,4 @@
 rootProject.name = '2024-08-java-pro'
 
+include 'homework-01-annotations'
+
